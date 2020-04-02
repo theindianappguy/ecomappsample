@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+If you feel any problem you can reach out on [Linkedin](https://www.linkedin.com/in/lamsanskar/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
